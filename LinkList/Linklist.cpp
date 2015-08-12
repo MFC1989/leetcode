@@ -14,6 +14,11 @@
 #include <iostream>
 #include <climits>
 #include <stack>
+#include <list>
+#include <unordered_set>
+#include <set>
+#include <algorithm>
+
 using namespace std;
 
  struct ListNode 
@@ -265,12 +270,23 @@ using namespace std;
 
 	 return true;
  }
+
+
+ //leetcode 206
+ struct ListNode* reverseList(struct ListNode* head)
+ {
+
+
+
+	 return head;
+ }
+
+
+
+
 int main()
-{
-	ListNode list1,list2;
-	InitList(&list1);
-	pushTail(&list1);
-	bool res=isPalindrome(list1.next);
+{	
+	
 
 	//_CrtDumpMemoryLeaks();
 	return 0;

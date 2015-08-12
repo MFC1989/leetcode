@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkList", "LinkList\LinkLi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "string", "string\string.vcxproj", "{FD4DAC97-FFD2-4F00-9281-B8B7B5828D43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dataStruct", "dataStruct\dataStruct.vcxproj", "{3FC7FDAD-1B99-429B-8D5B-C0A90AC089D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{FD4DAC97-FFD2-4F00-9281-B8B7B5828D43}.Debug|Win32.Build.0 = Debug|Win32
 		{FD4DAC97-FFD2-4F00-9281-B8B7B5828D43}.Release|Win32.ActiveCfg = Release|Win32
 		{FD4DAC97-FFD2-4F00-9281-B8B7B5828D43}.Release|Win32.Build.0 = Release|Win32
+		{3FC7FDAD-1B99-429B-8D5B-C0A90AC089D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FC7FDAD-1B99-429B-8D5B-C0A90AC089D1}.Debug|Win32.Build.0 = Debug|Win32
+		{3FC7FDAD-1B99-429B-8D5B-C0A90AC089D1}.Release|Win32.ActiveCfg = Release|Win32
+		{3FC7FDAD-1B99-429B-8D5B-C0A90AC089D1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
